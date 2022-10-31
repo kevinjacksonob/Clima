@@ -1,0 +1,25 @@
+*{
+  text-align: center;  
+}
+
+
+.App{
+  padding: 30px;
+  
+  
+}
+
+.card {
+  box-shadow: 2px 2px 8px rgba(0,0,0,.3);
+  padding: 10px;
+  border-radius: 10px;  
+  background-color: dimgrey;
+  color: white;
+}
+
+.card button {
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+  background-color: aqua;
+}
